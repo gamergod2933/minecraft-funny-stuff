@@ -1,17 +1,17 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "token": "MTA1MjI5MzQwNTI0MzM1NTE2Ng.GaSNxd.voiwoVTMVIs2bB5UyqIZ4ymQL38h0bHEfzr25o",
+    "prefix": "-",
     "ownerIDS": [
-        "442355791412854784"
+        "786588901652824086"
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
     "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
     "status": {
         "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
+        "text2": "By: Zeroo",
         "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "url": "Roblox"
     },
     "clientsettings": {
         "nodes": [
